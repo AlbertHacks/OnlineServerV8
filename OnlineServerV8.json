@@ -1,10 +1,10 @@
 {
-    "serverstatus":"false",
+    "serverstatus":"true",
     "noticemode":"true",
     "dataclearmode":"false",
     "servermeassage":"Wait We Are Working On a new Update !",
     "opentime":" Just wait few more times 🙂",
     "libs":"https://github.com/AlbertHacks/OnlineServerV8/raw/refs/heads/main/libbgmi.zip",
-    "notice_title":"Complete Payment Please",
+    "notice_title":"Moon WallHack",
     "notice_body":""
 }
